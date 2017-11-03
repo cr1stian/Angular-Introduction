@@ -15,6 +15,7 @@ This introduction assigment the core fundamental of Angular 4
 *ngIf: Angular of If statement;
 *RouterModule: ability to have single page applications;
 
+
 # Screen Shot
 
 <img width="100%" alt="screen shot 2017-11-02 at 3 42 54 pm" src="https://github.com/cr1stian/Angular-Introduction/blob/master/screenshot.jpeg?raw=true">
