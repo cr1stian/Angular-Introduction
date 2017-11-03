@@ -1,27 +1,14 @@
-# AngularApp
+# Introduction Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
+This introduction assigment the core fundamental of Angular 4 
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Subjects Covered
 
-## Code scaffolding
+*agFor: Angular version of For loop
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+# Screen Shot
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<img width="446" alt="screen shot 2017-11-02 at 3 42 54 pm" src="https://user-images.githubusercontent.com/28902787/32353926-6b13dd64-bff5-11e7-9447-9d664a831325.png">
